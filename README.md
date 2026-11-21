@@ -18,5 +18,5 @@ This project implements a playable arcade shooting gallery built end-to-end as a
 
 - **Aim:** Move the mouse / cursor
 - **Shoot:** Left Mouse Button
-- **Move:** 'WASD'
-- **Exit:** 'Esc'
+- **Move:** `WASD`
+- **Exit:** `Esc`
